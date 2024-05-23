@@ -1,0 +1,22 @@
+body {
+    background-image: url("../Images/first.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.button{
+    background-color: #007bff; /* Blue */
+    color: white;
+    padding: 15px 140px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+
